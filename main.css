@@ -1,0 +1,55 @@
+td{
+	border: 1px solid #ccc;
+	color: #333;
+	background: #F6F6F6;
+	font: Arial;
+	font-size: 14px;
+	text-align: center;
+}
+tr{
+	font: Arial;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: center;
+}
+.holidays{
+	border: 1px solid #ccc;
+	color: #FF0000;
+	background: #F6F6F6;
+	font: Arial;
+	font-size: 14px;
+	text-align: center;
+}
+.newdays{
+	border: 1px solid #ccc;
+	color: #00BFFF;
+	background: #F6F6F6;
+	font: Arial;
+	font-size: 14px;
+	text-align: center;
+}
+
+.datehead{
+	background-color: #8B8970;
+}
+
+.caltoday{
+	font: Arial;
+	background: #87CEFA;
+	border: 1px dashed #000;  
+	font-size: 14px;
+	text-align: center;
+	font-weight: bold;
+}
+
+.navi{
+	font: Arial;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.navi a{
+	color: #ffffff;
+	text-decoration: none;
+}
